@@ -18,7 +18,7 @@ public class UsuarioView extends Application {
     @Override
     public void start(Stage primaryStage) {
         try {
-            // DEFINIR COMPONENTES
+        	
             GridPane root = new GridPane();
             root.setHgap(10);  
             root.setVgap(10);  
